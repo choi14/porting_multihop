@@ -1,0 +1,12 @@
+*.o
+*.cpp
+*.pyc
+*~
+*.swp
+*.pcap
+*.out
+netanim-3.103/
+ns-3.18.1/storage_results
+ns-3.18.1/build
+ns-3.18.1/.lock-waf_linux2_build
+ns-3.18.1/.waf-1.7.11-edc6ccb516c5e3f9b892efc9f53a610f
