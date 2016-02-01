@@ -84,7 +84,7 @@ int main(int argc, char *argv[]){
 	uint16_t alg_rate = 9;
 	double src_rate = 1;
 	int seed = 1;
-	uint16_t nodeNum = 2;
+	uint16_t nodeNum = 4;
 	uint32_t packetNum = 100;//4070
 	int box = 15;
 	uint16_t alg_type = 2;
